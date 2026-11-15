@@ -1,1 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+<meta charset="UTF-8">
+<title>Abandono Escolar e as suas Consequências</title>
+<style>
+body { font-family: Arial; margin: 0; background: #fff5f0; color: #333; }
+header { background: #ff4f7d; color: white; text-align: center; padding: 40px 20px; }
+header h1 { font-size: 28px; margin: 0; }
+header p { font-size: 16px; }
+.caixa { background: white; margin: 20px; padding: 20px; border-radius: 15px; box-shadow: 0 2px 10px rgba(0,0,0,0.1); }
+h2 { color: #ff4f7d; }
+ul { line-height: 28px; }
+.botao { display: block; background: #ff4f7d; color: white; text-align: center; padding: 15px; margin: 20px; border-radius: 15px; font-size: 18px; font-weight: bold; text-decoration: none; }
+footer { text-align: center; padding: 20px; font-size: 13px; color: #888; }
+</style>
+</head>
+<body>
 
+<header>
+<h1>🎓 Abandono Escolar</h1>
+<p>E as suas consequências</p>
+<p>Trabalho da Vânia Cuco - Tema 14</p>
+</header>
+
+<div class="caixa">
+<h2>📌 O que é o Abandono Escolar?</h2>
+<p>O abandono escolar acontece quando o aluno deixa de ir à escola antes de terminar os seus estudos. É um problema que afeta muitos jovens em Moçambique e em todo o mundo.</p>
+</div>
+
+<div class="caixa">
+<h2>❓ Causas do Abandono Escolar</h2>
+<ul>
+<li><b>Falta de dinheiro:</b> Os pais não conseguem pagar material, uniforme e transporte.</li>
+<li><b>Gravidez precoce:</b> Muitas meninas abandonam a escola por engravidarem cedo.</li>
+<li><b>Distância:</b> A escola fica muito longe de casa.</li>
+<li><b>Trabalho infantil:</b> Os alunos são obrigados a trabalhar para ajudar a família.</li>
+<li><b>Falta de motivação:</b> O aluno não gosta da escola ou tem más notas.</li>
+<li><b>Casamento precoce:</b> Principalmente as meninas são obrigadas a casar cedo.</li>
+</ul>
+</div>
+
+<div class="caixa">
+<h2>⚠️ Consequências do Abandono Escolar</h2>
+<ul>
+<li>Dificuldade em arranjar um bom emprego.</li>
+<li>Mais pobreza para a família.</li>
+<li>Mais gravidez precoce e casamentos precoces.</li>
+<li>Aumento da delinquência e do consumo de drogas.</li>
+<li>Falta de conhecimento para cuidar da saúde.</li>
+<li>O país fica com menos pessoas formadas para desenvolver.</li>
+</ul>
+</div>
+
+<div class="caixa">
+<h2>✅ Como Evitar o Abandono Escolar?</h2>
+<ul>
+<li>Os pais devem apoiar e acompanhar os filhos.</li>
+<li>A escola deve ser um lugar acolhedor e sem violência.</li>
+<li>Criar bolsas de estudo para alunos pobres.</li>
+<li>Construir mais escolas perto das comunidades.</li>
+<li>Conversar com os jovens sobre a importância de estudar.</li>
+</ul>
+</div>
+
+<div class="caixa">
+<h2>💬 Conclusão</h2>
+<p>Estudar é o caminho para um futuro melhor. Quando um aluno abandona a escola, ele perde a oportunidade de mudar a sua vida e a vida da sua família. Por isso, todos nós - pais, professores, alunos e comunidade - devemos lutar contra o abandono escolar.</p>
+<p><b>Não abandones os teus sonhos. Continua a estudar!</b></p>
+</div>
+
+<a class="botao" href="index.html">⬅ VOLTAR PARA O INÍCIO</a>
+
+<footer>
+Feito por Vânia Cuco81-maker - 2026
+</footer>
+
+</body>
+</html>
